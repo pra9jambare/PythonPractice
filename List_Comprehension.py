@@ -14,5 +14,5 @@ ListCopy= List.copy()
 print("It is a copy of List",ListCopy)
 
 #adding two list
-AddList = newlist +newlist1
+AddList = newlist + newlist1
 print("Adding to list together", AddList)

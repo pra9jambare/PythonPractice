@@ -17,6 +17,7 @@ print("After change",Color)
 Fruits = ["Apple", "Banana", "Cherry","Kiwi","Apple","Banana"]
 print(Fruits)
 
-#Anydatatype
+#Anydatatype & Mix data types
 AnyDataTypes = [12,3,"32",None,True,34.5]
 print(AnyDataTypes)
+
